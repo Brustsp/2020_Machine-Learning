@@ -7,6 +7,6 @@ Learning materials and codes for machine learning using python, instructed by pr
  
 2.Classification
 
-3. Deep learning
+3.Deep learning
 
-4. CNN
+4.CNN
